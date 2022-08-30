@@ -1,0 +1,352 @@
+{
+  "data": [
+    {
+      "code": "0001",
+      "name": "T.C.MERKEZ BANKASI A.Ş.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0004",
+      "name": "İLLER BANKASI",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0010",
+      "name": "TÜRKİYE CUMHURİYETİ ZİRAAT BANKASI A.Ş.",
+      "address": "ANAFARTALAR MAHALLESİ ATATÜRK BULVARI NO:8 06050 ALTINDAĞ/ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0012",
+      "name": "HALK BANKASI",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0014",
+      "name": "T.SINAİ KALK. BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0015",
+      "name": "T.VAKIFLAR BANKASI T.A.O.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0016",
+      "name": "T.IHRACAT KREDI BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0017",
+      "name": "T.KALKINMA BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0029",
+      "name": "BIRLESIK FON BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0032",
+      "name": "T.EKONOMİ BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0046",
+      "name": "AKBANK T.A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0059",
+      "name": "ŞEKERBANK T.A.Ş.",
+      "address": "EMNİYET EVLERİ MAH. ESKİ BÜYÜKDERE CADDESİ NO:1/1A 34415 KAĞITHANE - İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0062",
+      "name": "T.GARANTİ BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0064",
+      "name": "T.IŞ BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0067",
+      "name": "YAPI VE KREDI BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0088",
+      "name": "TASFİYE HALİNDE THE ROYAL BANK OF SCOTLAND PLC.",
+      "address": "TAMBURİ ALİ EFENDİ SOK.NO:13 34337 ETİLER BEŞIKTAŞ-İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0091",
+      "name": "ARAP TÜRK BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0092",
+      "name": "CITIBANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0096",
+      "name": "TURKISHBANK",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0098",
+      "name": "JP MORGAN CHASE BANK NA MERK COL.OH",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0099",
+      "name": "ING BANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0100",
+      "name": "ADABANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0103",
+      "name": "FİBABANKA A.Ş.",
+      "address": "ESENTEPE MAH. BÜYÜKDERE CADDESİ NO:129 ŞİŞLİ 34394  İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0108",
+      "name": "TURKLAND BANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0109",
+      "name": "ICBC TURKEY BANK ANONİM ŞİRKETİ",
+      "address": "MASLAK MAH.DEREBOYU/2 CAD. NO:13 34398 MASLAK İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0111",
+      "name": "FİNANSBANK A.Ş.",
+      "address": "ESENTEPE MAHALLESİ  BÜYÜKDERE CADDESİ KRİSTAL KULE BİNASI NO:215 ŞİŞLİ - İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0115",
+      "name": "DEUTSCHE BANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0116",
+      "name": "PASHA YATIRIM BANKASI A.Ş.",
+      "address": "MASLAK MAHALLESİ, A.O.S. 55. SOKAK, NO:2, 42 MASLAK OFİS 3, DAİRE:205, 34398, SARIYER İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0121",
+      "name": "STANDARD CHARTERED YATIRIM BANKASI",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0122",
+      "name": "SOCIETE GENERALE",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0123",
+      "name": "HSBC BANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0124",
+      "name": "ALTERNATİFBANK A.Ş.",
+      "address": "OTM UMUT SOK. NO: 10-12 AND PLAZA 34752 İÇERENKÖY ATAŞEHİR/ İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0125",
+      "name": "BURGAN BANK A.Ş.",
+      "address": "MASLAK MAHALLESİ ESKİ BÜYÜKDERE CADDESİ NO: 13 34485 /SARIYER İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0129",
+      "name": "MERRILL LYNCH YATIRIM BANK A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0132",
+      "name": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+      "address": "REŞİT PAŞA MAHALLESİ ÖZBORSA CADDESİ NO:4 34467 SARIYER- İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0134",
+      "name": "DENİZBANK A.Ş.",
+      "address": "BÜYÜKDERE CADDESİ NO:141 34394 ESENTEPE-ŞİŞLİ-İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0135",
+      "name": "ANADOLUBANK A.Ş.",
+      "address": "SARAY MAHALLESİ TOYA SOKAK NO:3 ÜMRANİYE/İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0138",
+      "name": "DİLER YATIRIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0139",
+      "name": "GSD YATIRIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0141",
+      "name": "NUROL YATIRIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0142",
+      "name": "BANKPOZITIF KREDI VE KALK.BANK.A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0143",
+      "name": "AKTIF YATIRIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0146",
+      "name": "ODEA BANK A.Ş.",
+      "address": "LEVENT 199 BÜYÜKDERE CADDESİ NO:199 KAT:33-39 34394 ŞİŞLİ İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0203",
+      "name": "ALBARAKA TURK KATILIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0205",
+      "name": "KUVEYT TURK KATILIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0206",
+      "name": "TURKIYE FINANS KATILIM BANKASI A.S.",
+      "address": "",
+      "province_name": ""
+    },
+    {
+      "code": "0777",
+      "name": "KAS - 0777",
+      "address": "ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0778",
+      "name": "EMKT2 - 0778",
+      "address": "ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0779",
+      "name": "İhS - 0779",
+      "address": "ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0999",
+      "name": "EFT3 - 0999",
+      "address": "ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0888",
+      "name": "PÖS - 0888",
+      "address": "ANKARA",
+      "province_name": "ANKARA"
+    },
+    {
+      "code": "0806",
+      "name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+      "address": "REŞİT PAŞA MAHALLESİ ÖZBORSA CADDESİ NO:4 SARIYER-İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0147",
+      "name": "BANK OF TOKYO-MITSUBISHI UFJ TURKEY A.Ş.",
+      "address": "FSM MAH. POLİGON CAD. BUYAKA 2 SİTESİ NO:8B C BLOK KAT:20-21 34771 TEPEÜSTÜ/ÜMRANİYE, İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0137",
+      "name": "RABOBANK A.Ş.",
+      "address": "Esentepe Mah. Büyükdere Cad. Bahar Sok. River Plaza No:13 K:7 Ofis No.15-16 Şişli/İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0209",
+      "name": "ZİRAAT KATILIM BANKASI A.Ş.",
+      "address": "HOBYAR EMİNÖNÜ MH. HAYRİ EFENDİ CD. BAHÇEKAPI NO:12 PK:34112 FATİH/İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0148",
+      "name": "INTESA SANPAOLO S.P.A.",
+      "address": "MELTEM SOKAK NO:10 İŞ KULELERİ KULE:2 KAT:21 34330 LEVENT, BEŞİKTAŞ, İSTANBUL",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0150",
+      "name": "GOLDEN GLOBAL YATIRIM BANKASI A.Ş.",
+      "address": "ESENTEPE MAH",
+      "province_name": "İSTANBUL"
+    },
+    {
+      "code": "0210",
+      "name": "VAKIF KATILIM BANKASI A.Ş.",
+      "address": "SARAY MAH. DR. ADNAN BÜYÜKDENİZ CAD. NO:10 34768 ÜMRANİYE / İSTANBUL",
+      "province_name": "İSTANBUL"
+    }
+  ]
+}
